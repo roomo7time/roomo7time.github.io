@@ -7,6 +7,6 @@ linkedin_username: jaewoo-park-4bab49124 # your LinkedIn vanity username
 orcid_id: 0000-0001-7508-3371 # your ORCID iD
 rss_icon: true # comment this line to hide the RSS icon
 openreview: # OpenReview is not natively supported by jekyll-socials, so it is added as a custom social
-  logo: https://openreview.net/favicon.ico # can be png, svg, jpg
+  logo: ai ai-open-access # icon CSS class (no official OpenReview glyph exists; Academicons "open access" is the closest fit)
   title: OpenReview
   url: https://openreview.net/profile?id=~Jaewoo_Park1

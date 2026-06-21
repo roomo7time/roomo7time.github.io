@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My current major research interest is on anomaly detection in both its fundamental aspects and all application fields, including the utilization of language priors.
+My research focuses on anomaly detection, particularly the theoretically principled bottlenecks in distinguishing anomalies from normal data and the scalability of detection algorithms as training data grows. In addition, I investigate how the foundational priors captured in modern generative and language models—such as diffusion models and LLMs—can be leveraged to extend anomaly detection across diverse application domains.
