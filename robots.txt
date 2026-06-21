@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://roomo7time.github.io/sitemap.xml
