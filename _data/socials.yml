@@ -3,6 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 # email: # uncomment and add your email address to show the email icon
 scholar_userid: cEgdtr0AAAAJ # your Google Scholar ID
+github_username: roomo7time # your GitHub username
 linkedin_username: jaewoo-park-4bab49124 # your LinkedIn vanity username
 orcid_id: 0000-0001-7508-3371 # your ORCID iD
 openreview: # OpenReview is not natively supported by jekyll-socials, so it is added as a custom social
