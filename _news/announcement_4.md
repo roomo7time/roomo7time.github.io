@@ -1,4 +1,5 @@
 ---
+published: false # template news item, hidden from homepage & sitemap; flip to true or replace with real news
 layout: post
 date: 2026-04-30 12:00:00+0900
 inline: true

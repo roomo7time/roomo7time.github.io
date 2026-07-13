@@ -1,4 +1,5 @@
 ---
+published: false # hidden from site & sitemap until real content is added; flip to true to restore
 layout: page
 title: plugins
 permalink: /plugins/

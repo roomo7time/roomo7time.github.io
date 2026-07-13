@@ -182,15 +182,15 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false # template content hidden from site & sitemap; set true to restore
   news:
     defaults:
       layout: post
     output: true
   projects:
-    output: true
+    output: false # template content hidden from site & sitemap; set true to restore
   teachings:
-    output: true
+    output: false # template content hidden from site & sitemap; set true to restore
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

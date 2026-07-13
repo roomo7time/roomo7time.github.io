@@ -1,4 +1,5 @@
 ---
+published: false # hidden from site & sitemap until real CV content is added; flip to true to restore
 layout: cv
 permalink: /cv/
 title: CV
