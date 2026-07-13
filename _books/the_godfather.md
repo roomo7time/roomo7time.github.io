@@ -1,4 +1,5 @@
 ---
+published: false # template book hidden from site & sitemap (also removes /books/ archives); flip to true to restore
 layout: book-review
 title: The Godfather
 author: Mario Puzo
