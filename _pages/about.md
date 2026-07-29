@@ -24,4 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research focuses on anomaly detection, particularly the theoretically principled bottlenecks in distinguishing anomalies from normal data and the scalability of detection algorithms as training data grows. In addition, I investigate how the foundational priors captured in modern generative and language models—such as diffusion models and LLMs—can be leveraged to extend anomaly detection across diverse application domains.
+I am a Senior Research Scientist at AIVEX Inc., leading machine learning research for industrial AI. I received my Ph.D. in Electrical and Electronic Engineering from Yonsei University.
+
+My research centers on anomaly detection, where I take a theoretically principled approach. I also explore how the priors of modern generative models and LLMs can extend anomaly detection to diverse application domains. The methods I develop are deployed on production lines across multiple industries.
